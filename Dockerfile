@@ -1,4 +1,4 @@
-FROM node:14.17.1
+FROM node:19.0.0
 
 WORKDIR /src
 
